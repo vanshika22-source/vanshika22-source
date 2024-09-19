@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vanshika22-source
-- 👀 I’m interested in programming,learning.
-- 🌱 I’m currently learning frontend 
-- 💞️ I’m looking to collaborate on projects related to frontend.
+- 👋 Hi, I am @vanshika22-source
+- 👀 I am interested in programming and development.
+- 🌱 I am currently learning Development. 
+- 💞️ I am looking to collaborate on projects.
 - 📫 How to reach me ...
 - gmail - vanshikavaidya655@gmail.com
 
